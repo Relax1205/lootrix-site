@@ -19,6 +19,6 @@
 
 ## Что поправить, когда появится
 
-- Почта: заменить `появится скоро` / `coming soon` в `index.html` и `privacy.html` (элементы `class="mail"`).
+- Почта: lootrix1096@gmail.com (элементы `class="mail"` в `index.html` и `privacy.html`).
 - Ссылка на Google Play: кнопка `btn off` в `index.html`.
 - Если реклама или аналитика будут другими (не AdMob, не Firebase) — поправить разделы политики.
